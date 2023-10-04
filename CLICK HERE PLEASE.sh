@@ -4,5 +4,5 @@ echo Also, this is the oldest version possible so it was still probably beta. Do
 read -n1 -s -r -p $'Press space to continue...\n' key
 
 if [ "$key" = ' ' ]; then
-
+   echo UwU
 fi
